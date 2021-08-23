@@ -7,7 +7,7 @@ body {
   line-height: 1.8em;
 }
 
-p>a {
+p > a {
   color: #red;
   text-decoration: none;
 }
