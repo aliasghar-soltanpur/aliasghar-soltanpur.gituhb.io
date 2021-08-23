@@ -5,7 +5,7 @@ body {
   font-family: 'Raleway';
   font-size: 16px;
   line-height: 1.8em;
-  background-color: DodgerBlue;
+  background-color: rgb(155, 227, 204);
 }
 
 p > a {
